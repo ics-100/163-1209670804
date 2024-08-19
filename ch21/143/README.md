@@ -2,4 +2,7 @@
 
 |本期版本| 上期版本
 |:---:|:---:
-`Wed Mar 20 23:39:19 CST 2024` | -
+`Mon Aug 19 15:28:15 CST 2024` | `Wed Mar 20 23:39:19 CST 2024`
+
+
+* 高位内存区(High Memory Area: HMA)
